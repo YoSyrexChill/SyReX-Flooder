@@ -38,5 +38,5 @@ Once you've installed the dependencies and run the script, you can start utilizi
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Discord:** [syrex.py](https://discord.com/users/1071100333088051220) (User ID: 1071100333088051220)
+- **Discord:** [yosyrexchill](https://discord.com/users/1071100333088051220) (User ID: 1071100333088051220)
   
